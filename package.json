@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/free-ko/study-tdd-elli/issues"
   },
-  "homepage": "https://github.com/free-ko/study-tdd-elli#readme"
+  "homepage": "https://github.com/free-ko/study-tdd-elli#readme",
+  "dependencies": {
+    "jest": "^27.4.5"
+  }
 }
